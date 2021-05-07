@@ -1,2 +1,1 @@
-# html-css-cv
-CV con html5 y css3
+Curriculum sencillo con html css.
